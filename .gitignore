@@ -6,7 +6,6 @@ target
 .project
 .metadata
 .recommenders
-bin
 travis/codesigning.asc
 frontend-plugin-core/target
 frontend-maven-plugin/target
